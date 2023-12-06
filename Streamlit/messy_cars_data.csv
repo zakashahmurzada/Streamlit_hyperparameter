@@ -1,0 +1,106 @@
+make,model,year,price,mileage,color,last_service
+Chevrolet,Accord,2013.0,9236.0,187179.0,red,06/06/2022
+Nissan,Altima,,3270.0,107423.0,silver,05-12-2022
+Nissan,Camry,2018.0,11264.0,102417.0,white,2023.01.08
+Toyota,Focus,2012.0,10312.0,139943.0,,2022-10-03
+Honda,Altima,2014.0,9171.0,88978.0,black,2022-09-22
+Chevrolet,Malibu,2010.0,4517.0,120480.0,white,02/22/2023*
+Honda,Focus,2008.0,8321.0,180080.0,white,06/25/2022
+Nissan,Focus,2011.0,11871.0,187078.0,,04-25-2022*
+Chevrolet,Malibu,2011.0,,191264.0,black,2022-06-24
+,Altima,2016.0,2649.0,196051.0,red,2022/06/23
+Chevrolet,,2008.0,6007.0,73337.0,blue, 05/01/2022 
+Toyota,,2010.0,4912.0,177729.0,black,29/06/2022
+Toyota, Malibu ,2017.0,6414.0,77973.0,blue,02/01/2023
+Honda,Focus,2015.0,10848.0,186220.0,blue,01-15-2023
+Ford,,2007.0,,167207.0,black,04-08-2022
+CHEVROLET,Altima,2007.0,8486.0,,black,01-03-2023
+Chevrolet,Focus,2017.0,10071.0,,white,2022-06-30
+TOYOTA,Malibu,2018.0,13842.0,107907.0,silver,22/04/2022
+Ford,Camry,2017.0,9118.0,149106.0,blue,04-15-2022
+Nissan,Focus,2009.0,11878.0,106691.0,red,2022/05/29
+Toyota, Accord ,2012.0,,168208.0,black, 2022.10.23 
+Nissan,Camry,2013.0,5269.0,80546.0,,06/26/2022
+Ford,Camry,2017.0,9118.0,149106.0,blue,04-15-2022
+,,,11372.0,183909.0,white,2023-01-01
+Honda,Altima,2009.0,4550.0,73756.0,black,
+CHEVROLET,Camry,,12507.0,123289.0,black,15/11/2022
+Toyota,Focus,2017.0,10971.0,59204.0,Red,2022-09-17
+Nissan,Camry,2014.0,6322.0,81448.0,blue,06/14/2022
+Ford, Altima ,2009.0,,70721.0,blue,2022-10-02
+Toyota,Accord,2015.0,4371.0,80907.0,red,02-27-2023
+Honda,Camry,2012.0,4893.0,76786.0,red,23/01/2023
+Toyota,Malibu,2009.0,10145.0,101919.0,white,
+Ford,Accord,2022.0,12740.0,63674.0,silver,2022/04/01
+Ford,,2005.0,11624.0,153689.0,black,12/10/2022*
+NISSAN,Accord,2008.0,9097.0,152469.0,blue,2022/04/10
+Chevrolet,Camry,2016.0,6851.0,80768.0,red,2022/11/24
+NISSAN, Focus ,2015.0,3999.0,108827.0,silver,2023.03.07
+Toyota,,2007.0,2416.0,59824.0,white,12/18/2022
+Ford,Altima,2012.0,,176751.0,blue,2023.02.20
+Ford,Accord,2016.0,7640.0,58162.0,silver,2022-05-06
+Honda, Focus ,2005.0,11701.0,114919.0,black, 03/04/2022 
+Chevrolet,Focus,2005.0,12485.0,130216.0,White,2022-06-27
+Nissan,Accord,2009.0,2072.0,170828.0,blue,01/05/2023*
+Ford,Camry,2012.0,10016.0,88477.0,,07/07/2022
+Ford,Accord,2010.0,7903.0,71933.0,silver,21/04/2022
+,Camry,2008.0,,143230.0,red,24-03-2022
+Toyota,Accord,2021.0,,63420.0,silver,
+Toyota,Malibu,,6477.0,109741.0,silver,03-08-2023
+, Focus ,2007.0,3123.0,86069.0,,17-05-2022
+Honda,Malibu,2013.0,4973.0,,silver,02-10-2023
+HONDA,Accord,2021.0,14673.0,,red,
+Chevrolet,Camry,2018.0,,50250.0,blue,
+, Accord ,2011.0,6447.0,,silver, 23/03/2022 
+Chevrolet,Accord,2019.0,10374.0,108975.0,black,2022-09-04
+CHEVROLET, Camry ,,6070.0,68518.0,red,
+Chevrolet,Malibu,2007.0,12077.0,-55236.0,Black,
+Nissan,,2014.0,10576.0,179631.0,red,27-09-2022
+Chevrolet, Accord ,2011.0,5885.0,123332.0,black,01/19/2023
+Chevrolet,Malibu,,7799.0,193495.0,black,2022-09-01
+Ford,Camry,2018.0,3614.0,146497.0,blue,03-05-2022
+Nissan,Camry,,2419.0,75345.0,blue,03/29/2022
+Nissan,Accord,2009.0,11145.0,,silver,04/06/2022
+Chevrolet,Focus,2022.0,2535.0,73438.0,red,02-06-2023
+Honda,Altima,2005.0,11113.0,156379.0,white,06/04/2022
+Ford,Malibu,2014.0,8884.0,93382.0,white,03-31-2022
+Toyota,Altima,2022.0,12127.0,110685.0,silver,2022/12/31
+,Accord,2005.0,12418.0,61130.0,blue,31/12/2022
+Nissan,Altima,2021.0,6006.0,68040.0,white,30/11/2022*
+Honda,Camry,2012.0,4893.0,76786.0,red,23/01/2023
+Nissan,Altima,2017.0,9116.0,118028.0,black,20/02/2023
+,Accord,,5004.0,194893.0,white,
+Toyota,Focus,2021.0,12398.0,184670.0,red,2023-03-08
+Ford,Malibu,2014.0,8884.0,93382.0,white,03-31-2022
+Honda,Accord,2018.0,,158059.0,,2022.12.19*
+Toyota,Malibu,2008.0,12232.0,89265.0,,10/06/2022
+Nissan,Malibu,2011.0,7018.0,88595.0,white,2022-05-03
+NISSAN,Camry,2009.0,2010.0,152834.0,silver,02-24-2023
+HONDA,Accord,2014.0,3160.0,123702.0,black,11-02-2023
+Chevrolet, Camry ,2016.0,8361.0,174803.0,red,13-01-2023*
+,Altima,2017.0,3481.0,,white,05/01/2022
+Nissan,Malibu,2010.0,6129.0,166800.0,Blue,2022/05/25*
+TOYOTA,Accord,2018.0,12706.0,139946.0,white,12-31-2022
+Honda,Camry,2022.0,11867.0,169242.0,Blue, 2022-10-20 
+Chevrolet,Malibu,2019.0,13201.0,64900.0,white, 10-02-2023 
+Toyota,Focus,2007.0,7999.0,152120.0,silver,08/07/2022
+Toyota, Altima ,2011.0,14571.0,115727.0,silver, 29/01/2023 
+HONDA,Camry,2010.0,4714.0,113561.0,black,12-02-2022
+Honda,Altima,2009.0,7694.0,,silver,08/24/2022*
+Chevrolet,,2018.0,-10599.0,,,23/11/2022
+Honda,Altima,2010.0,11018.0,86919.0,,2023.03.09
+Nissan,Accord,2022.0,6000.0,155699.0,silver,2022/03/31
+Ford,Focus,2016.0,,,red,
+Honda,Camry,2012.0,2316.0,53771.0,white,07/06/2022
+Chevrolet, Accord ,2011.0,5885.0,123332.0,black,01/19/2023
+HONDA,,2022.0,6723.0,114130.0,,2023-03-19
+Toyota, Altima ,2021.0,11694.0,138249.0,black, 2022.12.24* 
+Nissan,Malibu,2014.0,10567.0,192315.0,silver,2023-03-13
+Honda,Malibu,2005.0,9543.0,93666.0,black, 03-13-2023* 
+Toyota,Focus,2007.0,7999.0,152120.0,silver,08/07/2022
+Ford,Altima,2008.0,4880.0,78765.0,red,10-16-2022
+Honda, Focus ,2014.0,8246.0,151215.0,black,2022-12-13
+Honda,Malibu,2018.0,2171.0,133937.0,blue,22-04-2022
+Honda,Accord,2006.0,,100921.0,red, 24-04-2022 
+Nissan,Accord,,2584.0,154592.0,red,11/10/2022
+Chevrolet,Focus,2018.0,10626.0,-131850.0,Red,2023-01-24
